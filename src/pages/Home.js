@@ -50,7 +50,7 @@ const Home = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            3 star @ Codechef | Specialist @ Codeforces | Tech Enthusiast
+            3 star @ Codechef | Specialist @ Codeforces | GSSoC'25 | Tech Enthusiast
           </p>
           <div className="flex justify-center mb-6">
             <button className="px-4 py-2 rounded-full bg-gradient-to-br from-purple-700 via-purple-500 to-pink-500 hover:bg-slate-800 text-white hover:text-purple-500 mt-3">
