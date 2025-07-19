@@ -4,7 +4,7 @@ const Projectdata = {
     {
       title: "FOKUS CODE",
       description: "🚀 The Ultimate Productivity Tool for Coders - A Chrome extension that blocks distracting websites when you should be coding, solving problems, or watching tutorials. Perfect for contest prep and building consistency.",
-      image: "/Portfolio-website/projectimg/fokus-code-latest.png",
+      image: "/Portfolio-website/projectimg/fokus-code-final.png",
       externalLink: "https://drive.google.com/file/d/1d50YZOymUJeGSx7JOr82s6O45GtxuDTL/view?usp=drive_link",
       githubLink: "https://github.com/DragQuaza/FOKUS-CODE",
       keywords: ["Chrome Extension", "JavaScript", "Productivity", "Web Development"],
